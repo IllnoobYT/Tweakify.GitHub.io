@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>My GitHub Page</title>
+    <title>Tweakify</title>
     <style>
       body {
         font-family: sans-serif;
@@ -37,6 +37,7 @@
       <h1>Welcome to my GitHub Page!</h1>
     </header>
     <main>
+        <button>Click me!</button>
       <p>Hi there! Thanks for visiting my page. This is just a simple homepage to showcase my GitHub projects and share a bit about myself.</p>
       <h2>About Me</h2>
       <p>My name is [Your Name] and I'm a [Your Profession] based in [Your City]. I'm passionate about [Your Interests] and love to [Your Hobbies]. You can find more about me and my work on my GitHub profile.</p>
